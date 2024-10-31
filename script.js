@@ -1,12 +1,12 @@
 const imageGallery = document.getElementById('image-gallery');
 
 const images = [
+    "IMG_5938.jpeg",
     "IMG_5359.jpeg",
     "IMG_5361.jpeg",
     "IMG_5362.jpeg",
     "IMG_5935.jpeg",
     "IMG_5937.jpeg",
-    "IMG_5938.jpeg",
     "IMG_5940.jpeg",
     "IMG_5941.jpeg",
     "IMG_5942.jpeg",
